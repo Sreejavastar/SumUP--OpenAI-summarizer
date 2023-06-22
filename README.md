@@ -1,8 +1,7 @@
 # SumUP--OpenAI-summarizer
 Simplify your reading with summarizer. It transforms lengthy articles into clear and concise summaries that has just the most important data from the original text. Save your Time!
 # OpenAI Summarizer using ChatGPT API
-
-![OpenAI Summarizer](https://your-image-link-here)
+![summarizer](https://github.com/Sreejavastar/SumUP--OpenAI-summarizer-SaaS-app/assets/77427558/80c388fe-d9db-4dff-b2e2-8fc863dc2fd0)
 
 **OpenAI Summarizer** is a powerful tool that utilizes the ChatGPT API to generate concise and accurate summaries of text documents. Whether you're a researcher, a student, or a content creator, this project aims to simplify the process of summarizing large volumes of information, saving you time and effort.
 

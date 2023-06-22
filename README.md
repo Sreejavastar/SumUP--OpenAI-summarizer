@@ -3,6 +3,9 @@ Simplify your reading with summarizer. It transforms lengthy articles into clear
 # OpenAI Summarizer using ChatGPT API
 ![summarizer](https://github.com/Sreejavastar/SumUP--OpenAI-summarizer-SaaS-app/assets/77427558/80c388fe-d9db-4dff-b2e2-8fc863dc2fd0)
 
+## Netlify link (Deployment):
+https://sumup-openai-summarizer.netlify.app/
+
 **OpenAI Summarizer** is a powerful tool that utilizes the ChatGPT API to generate concise and accurate summaries of text documents. Whether you're a researcher, a student, or a content creator, this project aims to simplify the process of summarizing large volumes of information, saving you time and effort.
 
 ## Features
@@ -64,5 +67,4 @@ For any inquiries or suggestions, please feel free to reach out to us at openai.
 
 Let's summarize the world together with OpenAI Summarizer!
 
-## Netlify link (Deployment):
-https://sumup-openai-summarizer.netlify.app/
+
